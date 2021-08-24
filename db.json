@@ -1,0 +1,18 @@
+{
+    "ngu_phap": [
+        {
+          "id":1,
+          "ten":"SV",
+          "cau_truc" :"sc",
+          "cach_dung":"sv"
+        }
+      ],
+      "list": [
+        {
+          "tu_vung": "name",
+          "nghia": "tên",
+          "id": 1
+        }
+      ]
+    
+  }
