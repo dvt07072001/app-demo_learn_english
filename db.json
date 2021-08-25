@@ -2,9 +2,9 @@
     "ngu_phap": [
         {
           "id":1,
-          "ten":"SV",
-          "cau_truc" :"sc",
-          "cach_dung":"sv"
+          "ten":"Hiện tại đơn",
+          "cau_truc" :"S + V + ..",
+          "cach_dung":"Chỉ những việc làm diễn ra ở hiện tại"
         }
       ],
       "list": [
@@ -13,7 +13,7 @@
           "nghia": "tên",
           "id": 1
         },
-          {
+        {
           "tu_vung": "street",
           "nghia": "đường",
           "id": 2
