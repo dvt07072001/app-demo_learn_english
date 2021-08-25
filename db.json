@@ -1,23 +1,83 @@
 {
-    "ngu_phap": [
-        {
-          "id":1,
-          "ten":"Hiện tại đơn",
-          "cau_truc" :"S + V + ..",
-          "cach_dung":"Chỉ những việc làm diễn ra ở hiện tại"
-        }
-      ],
-      "list": [
-        {
-          "tu_vung": "name",
-          "nghia": "tên",
-          "id": 1
-        },
-        {
-          "tu_vung": "street",
-          "nghia": "đường",
-          "id": 2
-        }
-      ]
-    
-  }
+  "ngu_phap": [
+    {
+      "ten": "Thì hiện tại đơn – Present simple",
+      "cau_truc": "S + V(s/es) + O",
+      "cach_dung": "Là thì diễn tả một sự việc, một hành động lặp đi lặp lại theo thói quen, phong tục, khả năng hay một sự thật hiển nhiên.",
+      "id": 1
+    },
+    {
+      "ten": "Thì hiện tại tiếp diễn – Present continuous tense",
+      "cau_truc": "S + am/is/are + V_ing",
+      "cach_dung": "Là thì diễn tả một hành động xảy ra vào thời điểm hiện tại, đang diễn ra và kéo dài ở hiện tại.",
+      "id": 2
+    },
+    {
+      "ten": "Thì hiện tại hoàn thành – Present perfect tense",
+      "cau_truc": "S + have/has + V3/ed + O",
+      "cach_dung": "Là thì diễn tả một hành động, sự việc đã bắt đầu từ trong quá khứ kéo dài đến hiện tại và có thể tiếp diễn trong tương lai.",
+      "id": 3
+    },
+    {
+      "ten": "Thì hiện tại hoàn thành tiếp diễn – Present perfect continuous tense",
+      "cau_truc": "S + have/has + been + V_ing",
+      "cach_dung": "Là thì diễn tả sự việc bắt đầu trong quá khứ và còn tiếp tục ở hiện tại, có thể tiếp diễn trong tương lai hay sự việc đã kết thúc nhưng ảnh hưởng kết quả còn lưu lại ở hiện tại.",
+      "id": 4
+    },
+    {
+      "ten": "Thì quá khứ đơn – Past simple tense",
+      "cau_truc": "S + V2/ed + O",
+      "cach_dung": "Là thì diễn tả một hành động, sự việc diễn ra và đã kết thúc trong quá khứ.",
+      "id": 5
+    },
+    {
+      "ten": "Thì quá khứ tiếp diễn – Past continuous tense",
+      "cau_truc": "S + was/were + V_ing + O",
+      "cach_dung": "Là thì diễn tả một hành động, sự việc đang diễn ra xung quanh một thời điểm trong quá khứ.",
+      "id": 6
+    },
+    {
+      "ten": "Thì quá khứ hoàn thành – Past perfect tense",
+      "cau_truc": "S + had + V3/ed + O",
+      "cach_dung": "Là thì diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Hành động xảy ra trước thì dùng thì quá khứ hoàn thành, còn hành động xảy ra sau thì dùng thì quá khứ đơn.",
+      "id": 7
+    }
+  ],
+  "list": [
+    {
+      "tu_vung": "people",
+      "nghia": "người",
+      "id": 1
+    },
+    {
+      "tu_vung": "history",
+      "nghia": "lịch sử",
+      "id": 2
+    },
+    {
+      "tu_vung": "way",
+      "nghia": "cách",
+      "id": 3
+    },
+    {
+      "tu_vung": "world",
+      "nghia": "từ",
+      "id": 4
+    },
+    {
+      "tu_vung": "information",
+      "nghia": "thông tin",
+      "id": 5
+    },
+    {
+      "tu_vung": "government",
+      "nghia": "chính phủ",
+      "id": 6
+    },
+    {
+      "tu_vung": "mothod",
+      "nghia": "phương pháp",
+      "id": 7
+    }
+  ]
+}
