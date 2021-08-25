@@ -12,6 +12,11 @@
           "tu_vung": "name",
           "nghia": "tên",
           "id": 1
+        },
+          {
+          "tu_vung": "street",
+          "nghia": "đường",
+          "id": 2
         }
       ]
     
