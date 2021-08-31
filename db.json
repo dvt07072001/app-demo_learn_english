@@ -4,94 +4,114 @@
       "ten": "Thì hiện tại đơn – Present simple",
       "cau_truc": "S + V(s/es) + O",
       "cach_dung": "Là thì diễn tả một sự việc, một hành động lặp đi lặp lại theo thói quen, phong tục, khả năng hay một sự thật hiển nhiên.",
-      "id": 1
+      "id": 1,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "ten": "Thì hiện tại tiếp diễn – Present continuous tense",
       "cau_truc": "S + am/is/are + V_ing",
       "cach_dung": "Là thì diễn tả một hành động xảy ra vào thời điểm hiện tại, đang diễn ra và kéo dài ở hiện tại.",
-      "id": 2
+      "id": 2,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "ten": "Thì hiện tại hoàn thành – Present perfect tense",
       "cau_truc": "S + have/has + V3/ed + O",
       "cach_dung": "Là thì diễn tả một hành động, sự việc đã bắt đầu từ trong quá khứ kéo dài đến hiện tại và có thể tiếp diễn trong tương lai.",
-      "id": 3
+      "id": 3,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "ten": "Thì hiện tại hoàn thành tiếp diễn – Present perfect continuous tense",
       "cau_truc": "S + have/has + been + V_ing",
       "cach_dung": "Là thì diễn tả sự việc bắt đầu trong quá khứ và còn tiếp tục ở hiện tại, có thể tiếp diễn trong tương lai hay sự việc đã kết thúc nhưng ảnh hưởng kết quả còn lưu lại ở hiện tại.",
-      "id": 4
+      "id": 4,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "ten": "Thì quá khứ đơn – Past simple tense",
       "cau_truc": "S + V2/ed + O",
       "cach_dung": "Là thì diễn tả một hành động, sự việc diễn ra và đã kết thúc trong quá khứ.",
-      "id": 5
+      "id": 5,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "ten": "Thì quá khứ tiếp diễn – Past continuous tense",
       "cau_truc": "S + was/were + V_ing + O",
       "cach_dung": "Là thì diễn tả một hành động, sự việc đang diễn ra xung quanh một thời điểm trong quá khứ.",
-      "id": 6
+      "id": 6,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "ten": "Thì quá khứ hoàn thành – Past perfect tense",
       "cau_truc": "S + had + V3/ed + O",
       "cach_dung": "Là thì diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Hành động xảy ra trước thì dùng thì quá khứ hoàn thành, còn hành động xảy ra sau thì dùng thì quá khứ đơn.",
-      "id": 7
+      "id": 7,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     }
   ],
   "list": [
     {
       "tu_vung": "each",
       "nghia": "môi",
-      "id": 1
+      "id": 1,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "tu_vung": "land",
       "nghia": "đất",
-      "id": 2
+      "id": 2,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "tu_vung": "lager",
       "nghia": "lớn",
-      "id": 3
+      "id": 3,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "tu_vung": "part",
       "nghia": "một phần",
-      "id": 4
+      "id": 4,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "tu_vung": "through",
       "nghia": "thông qua",
-      "id": 5
+      "id": 5,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "tu_vung": "sentence",
       "nghia": "câu",
-      "id": 6
+      "id": 6,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     },
     {
       "tu_vung": "project",
       "nghia": "dự án",
-      "id": 7
+      "id": 7,
+      "date": "10:8:41-31/8/2021",
+      "user": "Dương Văn Tính"
     }
   ],
   "gop_y": [
-    {
-      "name": "Tinh",
-      "cmt": "Chuc mung",
-      "id": 1
-    }
+    
   ],
   "user": [
-    {
-      "id": 1,
-      "ten": "duongvantinh",
-      "password": "0989828t"
-    }
+    
   ]
 }
