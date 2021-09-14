@@ -1,117 +1,145 @@
 {
-  "ngu_phap": [
-    {
-      "ten": "Thì hiện tại đơn",
-      "cau_truc": "S + V(s/es) + O",
-      "cach_dung": "Là thì diễn tả một sự việc, một hành động lặp đi lặp lại theo thói quen, phong tục, khả năng hay một sự thật hiển nhiên.",
-      "id": 1,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "ten": "Thì hiện tại tiếp diễn",
-      "cau_truc": "S + am/is/are + V_ing",
-      "cach_dung": "Là thì diễn tả một hành động xảy ra vào thời điểm hiện tại, đang diễn ra và kéo dài ở hiện tại.",
-      "id": 2,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "ten": "Thì hiện tại hoàn thành",
-      "cau_truc": "S + have/has + V3/ed + O",
-      "cach_dung": "Là thì diễn tả một hành động, sự việc đã bắt đầu từ trong quá khứ kéo dài đến hiện tại và có thể tiếp diễn trong tương lai.",
-      "id": 3,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "ten": "Thì hiện tại hoàn thành tiếp diễn",
-      "cau_truc": "S + have/has + been + V_ing",
-      "cach_dung": "Là thì diễn tả sự việc bắt đầu trong quá khứ và còn tiếp tục ở hiện tại, có thể tiếp diễn trong tương lai hay sự việc đã kết thúc nhưng ảnh hưởng kết quả còn lưu lại ở hiện tại.",
-      "id": 4,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "ten": "Thì quá khứ đơn",
-      "cau_truc": "S + V2/ed + O",
-      "cach_dung": "Là thì diễn tả một hành động, sự việc diễn ra và đã kết thúc trong quá khứ.",
-      "id": 5,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "ten": "Thì quá khứ tiếp diễn",
-      "cau_truc": "S + was/were + V_ing + O",
-      "cach_dung": "Là thì diễn tả một hành động, sự việc đang diễn ra xung quanh một thời điểm trong quá khứ.",
-      "id": 6,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "ten": "Thì quá khứ hoàn thành",
-      "cau_truc": "S + had + V3/ed + O",
-      "cach_dung": "Là thì diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Hành động xảy ra trước thì dùng thì quá khứ hoàn thành, còn hành động xảy ra sau thì dùng thì quá khứ đơn.",
-      "id": 7,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    }
-  ],
-  "list": [
-    {
-      "tu_vung": "each",
-      "nghia": "môi",
-      "id": 1,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "tu_vung": "land",
-      "nghia": "đất",
-      "id": 2,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "tu_vung": "lager",
-      "nghia": "lớn",
-      "id": 3,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "tu_vung": "part",
-      "nghia": "một phần",
-      "id": 4,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "tu_vung": "through",
-      "nghia": "thông qua",
-      "id": 5,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "tu_vung": "sentence",
-      "nghia": "câu",
-      "id": 6,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    },
-    {
-      "tu_vung": "project",
-      "nghia": "dự án",
-      "id": 7,
-      "date": "10:8:41-31/8/2021",
-      "user": "Dương Văn Tính"
-    }
-  ],
-  "gop_y": [
-    
-  ],
-  "user": [
-    
-  ]
+    "ngu_phap": [{
+            "ten": "Thì hiện tại đơn",
+            "cau_truc": "S + V(s/es) + O",
+            "cach_dung": "Là thì diễn tả một sự việc, một hành động lặp đi lặp lại theo thói quen, phong tục, khả năng hay một sự thật hiển nhiên.",
+            "id": 1,
+            "date": "10:8:41-31/8/2021",
+            "user": "Dương Văn Tính"
+        },
+        {
+            "ten": "Thì hiện tại tiếp diễn",
+            "cau_truc": "S + am/is/are + V_ing",
+            "cach_dung": "Là thì diễn tả một hành động xảy ra vào thời điểm hiện tại, đang diễn ra và kéo dài ở hiện tại.",
+            "id": 2,
+            "date": "10:8:41-31/8/2021",
+            "user": "Dương Văn Tính"
+        },
+        {
+            "ten": "Thì hiện tại hoàn thành",
+            "cau_truc": "S + have/has + V3/ed + O",
+            "cach_dung": "Là thì diễn tả một hành động, sự việc đã bắt đầu từ trong quá khứ kéo dài đến hiện tại và có thể tiếp diễn trong tương lai.",
+            "id": 3,
+            "date": "10:8:41-31/8/2021",
+            "user": "Dương Văn Tính"
+        },
+        {
+            "ten": "Thì hiện tại hoàn thành tiếp diễn",
+            "cau_truc": "S + have/has + been + V_ing",
+            "cach_dung": "Là thì diễn tả sự việc bắt đầu trong quá khứ và còn tiếp tục ở hiện tại, có thể tiếp diễn trong tương lai hay sự việc đã kết thúc nhưng ảnh hưởng kết quả còn lưu lại ở hiện tại.",
+            "id": 4,
+            "date": "10:8:41-31/8/2021",
+            "user": "Dương Văn Tính"
+        },
+        {
+            "ten": "Thì quá khứ đơn",
+            "cau_truc": "S + V2/ed + O",
+            "cach_dung": "Là thì diễn tả một hành động, sự việc diễn ra và đã kết thúc trong quá khứ.",
+            "id": 5,
+            "date": "10:8:41-31/8/2021",
+            "user": "Dương Văn Tính"
+        },
+        {
+            "ten": "Thì quá khứ tiếp diễn",
+            "cau_truc": "S + was/were + V_ing + O",
+            "cach_dung": "Là thì diễn tả một hành động, sự việc đang diễn ra xung quanh một thời điểm trong quá khứ.",
+            "id": 6,
+            "date": "10:8:41-31/8/2021",
+            "user": "Dương Văn Tính"
+        },
+        {
+            "ten": "Thì quá khứ hoàn thành",
+            "cau_truc": "S + had + V3/ed + O",
+            "cach_dung": "Là thì diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Hành động xảy ra trước thì dùng thì quá khứ hoàn thành, còn hành động xảy ra sau thì dùng thì quá khứ đơn.",
+            "id": 7,
+            "date": "10:8:41-31/8/2021",
+            "user": "Dương Văn Tính"
+        },
+        {
+            "ten": "Tương lại đơn",
+            "cau_truc": "S + will + Vo + ...",
+            "cach_dung": "Diễn tả sự vật sự việc sẽ diễn ra trong tương lai gần",
+            "date": "17:28:46-9/9/2021",
+            "user": "Dương Văn Tính",
+            "id": 8
+        }
+    ],
+    "list": [{
+            "tu_vung": "name",
+            "nghia": "tên",
+            "tu_loai": "n",
+            "phien_am": "neɪm",
+            "date": "17:58:10-14/9/2021",
+            "user": "Dương Văn Tính",
+            "id": 4
+        },
+        {
+            "tu_vung": "school",
+            "nghia": "trường",
+            "tu_loai": "n",
+            "phien_am": "skuːl",
+            "date": "18:0:56-14/9/2021",
+            "user": "Dương Văn Tính",
+            "id": 5
+        },
+        {
+            "tu_vung": "study",
+            "nghia": "nghiên cứu",
+            "tu_loai": "v",
+            "phien_am": "stʌdi",
+            "date": "18:3:51-14/9/2021",
+            "user": "Dương Văn Tính",
+            "id": 6
+        }
+    ],
+    "gop_y": [{
+            "ten": "Lam",
+            "cmt": "Chắc bạn Tính nghĩ tui hiền lành tốt bụng lắm 😒",
+            "date": "20:23:8-2/9/2021",
+            "createdAt": 1630588991374,
+            "id": 1
+        },
+        {
+            "ten": "Trịnh Thị Phượng",
+            "cmt": "khá ấn tượng , mong rằng phần mềm sẽ giúp mọi người cải thiện được Tiếng Anh ",
+            "date": "21:3:12-2/9/2021",
+            "createdAt": 1630591510100,
+            "id": 2
+        },
+        {
+            "ten": "Trần Văn Phán",
+            "cmt": "Hay quá ",
+            "date": "12:53:57-3/9/2021",
+            "createdAt": 1630648439955,
+            "id": 4
+        }
+    ],
+    "user": [{
+            "ten": "Dương Văn Tính",
+            "password": "0989828t",
+            "date": "16:33:2-31/8/2021",
+            "id": 1
+        },
+        {
+            "ten": "Lam",
+            "password": "12345",
+            "date": "19:57:14-2/9/2021",
+            "createdAt": 1630587435498,
+            "id": 2
+        },
+        {
+            "ten": "Trịnh Thị Phượng",
+            "password": "29062002",
+            "date": "21:2:15-2/9/2021",
+            "createdAt": 1630591452525,
+            "id": 3
+        },
+        {
+            "ten": "Trần Văn Phán",
+            "password": "Tranvanphan123",
+            "date": "12:52:30-3/9/2021",
+            "createdAt": 1630648353405,
+            "id": 4
+        }
+    ]
 }
